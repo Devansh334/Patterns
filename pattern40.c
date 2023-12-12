@@ -12,6 +12,7 @@ Draw following using loops
 *
 
 */
+#include <stdlib.h>
 #include <stdio.h>
 void main()
 {
