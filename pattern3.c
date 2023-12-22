@@ -9,6 +9,7 @@ Draw following pattern using Only 2 Loops
 
 */
 
+
 #include <stdio.h>
 void main()
 {
