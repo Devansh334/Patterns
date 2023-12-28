@@ -1,4 +1,5 @@
 /*
+Draw the following pattern with 2 loops
  j 1 2 3 4 5 6 7
 i
 1        *
