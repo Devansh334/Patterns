@@ -2,15 +2,13 @@
 
 Make the following pattern using two loops
 
-      * * * * * * * *
-    *   *             *
-  *       *             *
-* * * * * * * * * * * * * *
-*           *             *
-*           *             *
-*           *             *
-*           *             *
-* * * * * * * * * * * * * *
+0 1 1 1 1 1 0 
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+0 1 1 1 1 1 0
 
 */
 
@@ -18,17 +16,17 @@ Make the following pattern using two loops
 void main()
 {
     int i, j;
-    for (i = 1; i <= 9; i++)
+    for (i = 1; i <= 7; i++)
     {
-        for (j = 1; j <= 14; j++)
+        for (j = 1; j <= 7; j++)
         {
-            if (i == 4 || i == 9 || (i == 1 && j >= 4 && j <= 11) || (i <= 4 && i + j == 5) || (i <= 4 && j - i == 3) || (i <= 4 && j - i == 10) || (j == 1 && i >= 4) || (j == 7 && i >= 4) || (j == 14 && i >= 4))
+            if (i == 1 && i != j && i + j != 8 || i == 7 && i != j && i + j != 8 || j == 1 && i != j && i + j != 8 || j == 7 && i != j && i + j != 8)
             {
-                printf("* ");
+                printf("1 ");
             }
             else
             {
-                printf("  ");
+                printf("0 ");
             }
         }
         printf("\n");
