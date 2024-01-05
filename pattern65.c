@@ -1,6 +1,6 @@
 /*
 
-Draw following pattern
+Draw following Heart pattern
 
     * *       * *
   * * * *   * * * *
