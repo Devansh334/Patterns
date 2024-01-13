@@ -10,6 +10,7 @@ Draw following pattern using Only 2 Loops
 */
 
 #include <stdio.h>
+
 int i;
 void main()
 {
