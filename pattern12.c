@@ -9,6 +9,7 @@ Draw following pattern
 
 */
 
+
 #include <stdio.h>
 
 void main()
