@@ -28,6 +28,7 @@ void main()
                 temp = 1;
             }
         }
+        
         printf("\n");
     }
 }
