@@ -1,6 +1,7 @@
 /*
 
-Draw following pattern
+Draw following pattern using only two loops
+
 1 2 3 4 5
 2 3 4 5
 3 4 5
