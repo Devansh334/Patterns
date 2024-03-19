@@ -1,5 +1,4 @@
 /*
-
 Make the following pattern using two loops
 
       * * * * * * * *
