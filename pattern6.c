@@ -6,7 +6,6 @@ Draw following pattern using Only 2 Loops
 1 2 * 4 5
 1 * 3 * 5
 * 2 3 4 *
-
 */
 
 #include <stdio.h>
