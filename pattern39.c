@@ -8,7 +8,6 @@ Draw following using 2 loops
           *
         *
       *
-
 */
 #include <stdio.h>
 void main()
