@@ -6,7 +6,6 @@ Draw following pattern
 1 2 3
 1 2
 1
-
 */
 
 
