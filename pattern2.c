@@ -1,4 +1,5 @@
 /*
+
 Make Following pattern using only 2 loops -->
 
 1   1   1   1   1
