@@ -6,6 +6,7 @@ Draw following pattern using Only 2 Loops
 1 2 3 * *
 1 2 3 4 *
 1 2 3 4 5
+
 */
 
 
