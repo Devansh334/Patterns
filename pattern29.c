@@ -1,5 +1,4 @@
 /*
-
 Draw following pattern
       D
      D E
