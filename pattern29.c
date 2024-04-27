@@ -10,7 +10,6 @@ D E V A N S H
 
 */
 #include <stdio.h>
-
 void main()
 {
     int i, j, k;
