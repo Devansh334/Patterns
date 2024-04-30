@@ -8,7 +8,6 @@ Z Z Z Z Z Z Z
     Z
   Z
 Z Z Z Z Z Z Z
-
 */
 #include <stdio.h>
 void main()
