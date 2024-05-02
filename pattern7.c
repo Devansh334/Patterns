@@ -8,6 +8,7 @@ Draw following pattern using Only 2 Loops
 1 * 3 * 5
 * 2 * 4 *
 1 * 3 * 5
+
 */
 
 #include <stdio.h>
