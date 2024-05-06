@@ -8,7 +8,6 @@ Draw following pattern
 1
 */
 
-
 #include <stdio.h>
 
 void main()
