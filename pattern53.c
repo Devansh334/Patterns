@@ -15,6 +15,7 @@ Draw following pattern using only 2 loops
   *       *       *
 *         *         *
 
+
 */
 
 #include <stdio.h>
