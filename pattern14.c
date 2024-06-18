@@ -6,6 +6,7 @@ Draw following pattern
 3 2 1
 4 3 2 1
 5 4 3 2 1
+
 */
 
 #include <stdio.h>
