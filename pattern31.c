@@ -6,7 +6,6 @@ q p
 r q p
 s r q p
 t s r q p
-
 */
 
 #include <stdio.h>
